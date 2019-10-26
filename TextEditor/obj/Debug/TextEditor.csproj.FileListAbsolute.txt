@@ -1,0 +1,13 @@
+G:\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+G:\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+G:\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+G:\TextEditor\TextEditor\obj\Debug\TextEditor.csprojAssemblyReference.cache
+G:\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+G:\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+G:\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+G:\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+G:\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+G:\TextEditor\TextEditor\obj\Debug\TextEditor.TextEditorForm.resources
+G:\TextEditor\TextEditor\obj\Debug\TextEditor.LoginForm.resources
+G:\TextEditor\TextEditor\obj\Debug\TextEditor.NewUserForm.resources
+G:\TextEditor\TextEditor\obj\Debug\TextEditor.AboutForm.resources
